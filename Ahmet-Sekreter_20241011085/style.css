@@ -1,0 +1,62 @@
+body{
+    font-family: Arial;
+    background: white;
+    margin: 0;
+}
+iframe{
+    size: 50px;
+    
+}
+h1{
+    color: gainsboro;
+}
+
+header
+{
+background-color: black;
+padding: 20px;
+text-align: center;
+
+}
+footer{
+    background-color: black;
+    padding: 20px;
+    
+}
+p1{
+    color: white;
+    text-align: right;
+}
+nav a
+{
+margin: 0 12px;
+color: white;
+text-decoration: none;
+font-weight: bold;
+}
+td{
+    margin-top: auto;
+    text-align: center;
+}
+label{
+    color: white;
+}
+h5{
+    color: whites;
+}
+
+img 
+{
+    
+    margin-left: auto; /* Sol kenar boşluğunu otomatik ayarlar */
+    margin-right: auto;
+    text-align: center;
+margin-top: 20px;
+border-radius: 10px;
+}
+main{
+    padding: 20px;
+}
+h2{
+    text-align: center;
+}
